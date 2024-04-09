@@ -1,0 +1,7 @@
+
+m	java:S106	"+Replace this use of System.out by a logger.(ÚßÊµ8‹ç¸œì1J$6586aca0-045a-4ccf-b80c-4bd7d0dd15a1
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ç¸œì1J$2ccd3bb6-c5cd-4f6a-ae9e-cc4d7fb04e5d
+m	java:S106"+Replace this use of System.out by a logger.(Ù©È±8’ç¸œì1J$8f5e73e3-d1af-4aac-a707-07902a77b01a
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8”ç¸œì1J$c595a750-f7aa-4075-b76b-7997f83614a6

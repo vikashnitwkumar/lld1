@@ -22,5 +22,6 @@ class Main {
         }
         System.out.println("sorting completed");
         System.out.println("Hi there");
+        ;
     }
 }

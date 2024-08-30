@@ -1,6 +1,10 @@
 
 class Student implements Comparable<Student>
 {
+    static{
+        a = 60;
+    }
+    static int a;
     int id;
 
     String name;

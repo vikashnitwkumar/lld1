@@ -1,7 +1,9 @@
 package assiglld1.lld.lambda;
 
-public class TesterClass {
+import java.util.Comparator;
 
+public class TesterClass {
+    //way to implement lambda expression without creating a implementing class
     SampleInterface sampleInterface = new SampleInterface() {
         @Override
         public int fun() {
@@ -12,4 +14,9 @@ public class TesterClass {
             return 0;
         }
     };
+
+    Comparator<Student> strundetComparator = (o1, o2)->{
+        return o1.getRollNumber() - o2.getRollNumber();
+    };
+
 }
